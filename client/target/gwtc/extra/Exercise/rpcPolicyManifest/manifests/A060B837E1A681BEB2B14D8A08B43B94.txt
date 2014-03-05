@@ -1,0 +1,2 @@
+serviceClass: exercise.shared.AppService
+path: 3E73ABC6789E856EA496F504BAA41C0C.gwt.rpc
